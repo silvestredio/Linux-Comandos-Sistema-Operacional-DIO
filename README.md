@@ -7,3 +7,5 @@ Banners do Curso na DIO >>> Linux: A introdução ao sistema operacional
 ![Gerenciadores de Pacotes PRINT A4](https://user-images.githubusercontent.com/93165498/142730192-f0195499-09bc-4a88-8f42-5d0c69f732b3.jpg) 
 
 ![Linux Comando Diretorios PRINT A4](https://user-images.githubusercontent.com/93165498/142730198-6c61d31c-9618-4955-8f89-a7eeb385df6f.jpg) 
+
+![Sistema operacional cat tac nano PRINT A4](https://user-images.githubusercontent.com/93165498/142730206-826b8281-8f2f-40f9-9e25-ec2f650d4174.jpg)
