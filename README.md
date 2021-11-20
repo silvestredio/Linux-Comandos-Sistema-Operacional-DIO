@@ -9,3 +9,5 @@ Banners do Curso na DIO >>> Linux: A introdução ao sistema operacional
 ![Linux Comando Diretorios PRINT A4](https://user-images.githubusercontent.com/93165498/142730198-6c61d31c-9618-4955-8f89-a7eeb385df6f.jpg) 
 
 ![Sistema operacional cat tac nano PRINT A4](https://user-images.githubusercontent.com/93165498/142730206-826b8281-8f2f-40f9-9e25-ec2f650d4174.jpg)
+
+![Sistema Operacional ls mkdir cd clear PRINT A4](https://user-images.githubusercontent.com/93165498/142730213-1736bee3-a81d-48f8-b3e8-33c57420b253.jpg)
